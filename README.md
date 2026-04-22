@@ -1,1 +1,1 @@
-![Teks Alternatif](Foto ganteng/nct dream-candy-wallpapers.jpg)
+![Teks Alternatif](Foto_ganteng/nct_dream-candy-wallpapers.jpg)
