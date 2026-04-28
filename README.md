@@ -1,4 +1,4 @@
-![Uri Namja](Foto_ganteng/nct-dream-candy-wallpapers.jpg)
+![Uri Namja](Foto%20ganteng/nct-dream-candy-wallpapers.jpg)
 
 # NCT DREAM (H3)
 ## 7DREAM FOREVER (H4)
