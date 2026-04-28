@@ -3,8 +3,8 @@
 # NCT DREAM
 ## 7DREAM FOREVER 
 
-**Teks Tebal (Bold)**
-*Teks Miring (Italic)*
+**My Youth,**
+*Filled with Dream*
 
 - Poin List
 - Poin List lainnya
