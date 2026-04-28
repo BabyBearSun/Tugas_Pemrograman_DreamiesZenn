@@ -6,7 +6,7 @@
 **My Youth,**
 *Filled with Dream*
 
-- Poin List
-- Poin List lainnya
+- 7'llin
+- Home
 
-`퍼에버 칠드림 💚` (Inline code)
+`퍼에버 칠드림 💚` (vhdpqj clfemfla 💚)
