@@ -2,7 +2,7 @@
 $host = "localhost";
 $user = "root";
 $pass = "";
-$db   = "db_nct"; // Sesuaikan nama database tadi
+$db   = "db_nct"; 
 
 $conn = mysqli_connect($host, $user, $pass, $db);
 
